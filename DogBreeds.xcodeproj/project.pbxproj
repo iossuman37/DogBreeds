@@ -23,6 +23,7 @@
 		B0064FD0265E9F9300031B02 /* BreedDetailsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0064FCF265E9F9300031B02 /* BreedDetailsViewModel.swift */; };
 		B0064FDB265EA49800031B02 /* BreedImagesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0064FDA265EA49800031B02 /* BreedImagesController.swift */; };
 		B0112474265EB63500C615CA /* BreedImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0112473265EB63400C615CA /* BreedImageCell.swift */; };
+		B0112484265EE7E400C615CA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B0112483265EE7E400C615CA /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		B0064FCF265E9F9300031B02 /* BreedDetailsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedDetailsViewModel.swift; sourceTree = "<group>"; };
 		B0064FDA265EA49800031B02 /* BreedImagesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedImagesController.swift; sourceTree = "<group>"; };
 		B0112473265EB63400C615CA /* BreedImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedImageCell.swift; sourceTree = "<group>"; };
+		B0112483265EE7E400C615CA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 		B0064F22265E84A300031B02 = {
 			isa = PBXGroup;
 			children = (
+				B0112483265EE7E400C615CA /* README.md */,
 				B0064F2D265E84A300031B02 /* DogBreeds */,
 				B0064F44265E84A600031B02 /* DogBreedsTests */,
 				B0064F4F265E84A600031B02 /* DogBreedsUITests */,
@@ -305,6 +308,7 @@
 			files = (
 				B0064F3B265E84A600031B02 /* LaunchScreen.storyboard in Resources */,
 				B0064F38265E84A600031B02 /* Assets.xcassets in Resources */,
+				B0112484265EE7E400C615CA /* README.md in Resources */,
 				B0064F36265E84A300031B02 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
