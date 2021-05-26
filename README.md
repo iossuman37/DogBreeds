@@ -18,4 +18,5 @@ Extended UIImageView to download image from imageUrl of the Breed Image. Impleme
 
 Used Box data binding to implement listener on subBreeds property. Once the data is fetched from API, listener notifies controller and renders breeds on UI with image and name.
 
+Implemented one unit test for fetch Breeds List and one UI test for loading tableView with BreedsList 
 
