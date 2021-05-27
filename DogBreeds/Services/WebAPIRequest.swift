@@ -30,7 +30,7 @@ class WebAPIRequest {
         session.configuration.timeoutIntervalForRequest = 180.0
         session.configuration.requestCachePolicy = .reloadIgnoringLocalAndRemoteCacheData
         
-        //URL Builder to fetch tracks for search term with offset and limit
+        //URL Builder to fetch
         var urlBuilder = URLComponents()
         urlBuilder.scheme = "https"
         urlBuilder.host = host
@@ -75,7 +75,7 @@ class WebAPIRequest {
         session.configuration.timeoutIntervalForRequest = 180.0
         session.configuration.requestCachePolicy = .reloadIgnoringLocalAndRemoteCacheData
         
-        //URL Builder to fetch tracks for search term with offset and limit
+        //URL Builder to fetch 
         var urlBuilder = URLComponents()
         urlBuilder.scheme = "https"
         urlBuilder.host = host
